@@ -1,10 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About The Project
+
+It take website Link as input and share insigths.
+An application of LightHouse.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `yarn start`
 
